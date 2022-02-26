@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GetPokeApi/static/css/main.47f666f0.chunk.css",
+    "main.js": "/GetPokeApi/static/js/main.1395bf35.chunk.js",
+    "main.js.map": "/GetPokeApi/static/js/main.1395bf35.chunk.js.map",
+    "runtime~main.js": "/GetPokeApi/static/js/runtime~main.299365b6.js",
+    "runtime~main.js.map": "/GetPokeApi/static/js/runtime~main.299365b6.js.map",
+    "static/js/2.d09f8bdb.chunk.js": "/GetPokeApi/static/js/2.d09f8bdb.chunk.js",
+    "static/js/2.d09f8bdb.chunk.js.map": "/GetPokeApi/static/js/2.d09f8bdb.chunk.js.map",
+    "index.html": "/GetPokeApi/index.html",
+    "precache-manifest.c4a84dd8ffb23b8ebbc2cef8832bb147.js": "/GetPokeApi/precache-manifest.c4a84dd8ffb23b8ebbc2cef8832bb147.js",
+    "service-worker.js": "/GetPokeApi/service-worker.js",
+    "static/css/main.47f666f0.chunk.css.map": "/GetPokeApi/static/css/main.47f666f0.chunk.css.map"
+  }
+}
